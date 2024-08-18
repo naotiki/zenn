@@ -3,5 +3,6 @@ summary: ""
 topics: []
 published: false
 price: 0 # 有料の場合200〜5000
+publication_name: "nitkc_proken"
 # 本に含めるチャプターを順番に並べましょう
 chapters:
